@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Manual Transmission Vehicle Simulator</h1>
+<h1 align="center" id="title">PC-Integrated Manual Transmission Vehicle Simulator for Realistic Driving</h1>
 
 
 <p id="description">This is a comprehensive manual gear vehicle simulator that can be seamlessly connected to any computer equipped with the necessary software. This simulator offers an immersive and realistic experience of driving a manual transmission vehicle enhancing user skills and understanding of manual gear shifting.</p>
